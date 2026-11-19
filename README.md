@@ -3,4 +3,24 @@ Medical devices such as patient monitors, ECG machines, pulse oximeters, infusio
 
 This project aims to develop an AI-powered cybersecurity framework for detecting, identifying, and analyzing potential threats targeting connected medical devices using Federated Learning (FL).
 The framework analyzes medical-device network traffic and activity patterns to identify suspicious behavior, detect potential cyberattacks, classify threats, and generate security insights. It can also provide explanations of detected incidents and recommend appropriate security responses.
-
+IoMT-Cybersecurity Framework:/
+│
+├── device_simulator/
+│   └── heart_monitor.py
+│
+├── mqtt/
+│   └── subscriber.py
+│
+├── detection/
+│
+├── attacks/
+│
+├── risk_assessment/
+│
+├── dashboard/
+│
+├── datasets/
+│
+├── documentation/
+│
+└── README.md
